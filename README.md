@@ -18,11 +18,11 @@ Landing page animada inspirada na marca Fanta utilizando HTML, CSS, JavaScript e
 
 ## 📸 Preview
 
-![Preview](./assets/preview.png)
+<img width="1363" height="606" alt="image" src="https://github.com/user-attachments/assets/a79c55fb-6685-45d9-9477-62094d461e88" />
 
 ## 🌐 Projeto online
 
-https://vinicius385.github.io/fanta-landing-page/
+https://vinicius385.github.io/landing-page-fanta/
 
 ## 👨‍💻 Autor
 
